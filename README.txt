@@ -1,7 +1,7 @@
 # DAEN690-Capstone
 Gard school-project
 
-this github repsoitory contains all the scripts related to capstone project done by Anirudh Myakala, Vamshidar Reddy, Pragnakar Pedapenki, Chaitanya Krishna Sai Kosaraju under the guidence of F. Brett Berlin.
+this github repsoitory contains all the file's related to capstone project done by Anirudh Myakala, Vamshidar Reddy, Pragnakar Pedapenki, Chaitanya Krishna Sai Kosaraju under the guidence of F. Brett Berlin.
 
 FILE's
 
@@ -15,6 +15,7 @@ FILE's
 
 # Theano related files 
 1) theano_2D_conv
+2) bash_theano
 
 ##dependency files for Theano model 
 a) utils 
